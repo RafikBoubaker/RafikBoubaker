@@ -1,4 +1,4 @@
-![image](https://github.com/RafikBoubaker/RafikBoubaker/RBoubaker.png?raw=true)
+![image](https://github.com/RafikBoubaker/RafikBoubaker/blob/master/RBoubaker.png?raw=true)
 
 
 <h1 align="center">Hi 👋 ! I'm Rafik</h1>
@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/boubaker-rafik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/boubaker-rafik/" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/RafikBoubaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codewars.svg" alt="https://www.codewars.com/users/RafikBoubaker" height="30" width="40" /></a>
 </p>
 
 
@@ -50,9 +49,9 @@
  <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafikBoubaker&show_icons=true&locale=en&layout=compact&theme=radical" alt="Nikhil" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafikBoubaker&show_icons=true&locale=en&layout=compact&theme=radical" alt="RafikBoubaker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JustNikhill&show_icons=true&locale=en&theme=tokyonight" alt="RafikBoubaker" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RafikBoubaker&show_icons=true&locale=en&theme=tokyonight" alt="RafikBoubaker" width="410" /></p>
 
 <hr>
 
