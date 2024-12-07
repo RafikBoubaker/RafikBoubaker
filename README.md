@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋 ! I'm Rafik</h1>
-<h3 align="center">Full-Stack JS DEV & Software engineer| Freelancer| always Learning </h3>
+<h3 align="center">Full-Stack Java/JS DEV & Software engineer| Freelancer| always Learning </h3>
  
 <p align="center">
    <a href="https://github.com/RafikBoubaker/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+JS+DEV;Freelancer;Judo+Player"></a>
